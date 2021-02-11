@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PFC_IC)(type Legacy)(uri "C:/Users/Grewal/Documents/KiCAD Library/ul_UCC28180DR/KiCAD/2021-02-08_03-30-46/2021-02-08_03-30-46.lib")(options "")(descr ""))
+  (lib (name PFC_Dac)(type Legacy)(uri "C:/Users/Grewal/Documents/KiCAD Library/ul_GBJ2510F/KiCAD/2021-02-11_02-59-44/2021-02-11_02-59-44.lib")(options "")(descr ""))
+)
