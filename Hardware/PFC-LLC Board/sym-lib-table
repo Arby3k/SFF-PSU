@@ -1,4 +1,8 @@
 (sym_lib_table
   (lib (name PFC_IC)(type Legacy)(uri "C:/Users/Grewal/Documents/KiCAD Library/ul_UCC28180DR/KiCAD/2021-02-08_03-30-46/2021-02-08_03-30-46.lib")(options "")(descr ""))
   (lib (name PFC_Dac)(type Legacy)(uri "C:/Users/Grewal/Documents/KiCAD Library/ul_GBJ2510F/KiCAD/2021-02-11_02-59-44/2021-02-11_02-59-44.lib")(options "")(descr ""))
+  (lib (name LLC_U2)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/UCC24624DT - LLC Chip/UCC24624DT.lib")(options "")(descr ""))
+  (lib (name LLC_U1)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/UCC256403 - LLC Chip/UCC256403-LLC.lib")(options "")(descr ""))
+  (lib (name LLC_O1)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/PS2501L-1-F3-A/PS2501L-1-F3-A.lib")(options "")(descr ""))
+  (lib (name LLC_VR)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/TLV431AIDBVT - LLC/TLV431AIDBVT.lib")(options "")(descr ""))
 )
