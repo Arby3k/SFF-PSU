@@ -5,4 +5,6 @@
   (lib (name LLC_U1)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/UCC256403 - LLC Chip/UCC256403-LLC.lib")(options "")(descr ""))
   (lib (name LLC_O1)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/PS2501L-1-F3-A/PS2501L-1-F3-A.lib")(options "")(descr ""))
   (lib (name LLC_VR)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/TLV431AIDBVT - LLC/TLV431AIDBVT.lib")(options "")(descr ""))
+  (lib (name LLC_Cisns2)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/FA26C0G2J151JNU00/FA26C0G2J151JNU00.lib")(options "")(descr ""))
+  (lib (name LLC_Cout)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/35SVPF120M/35SVPF120M.lib")(options "")(descr ""))
 )
