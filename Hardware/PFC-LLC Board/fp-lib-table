@@ -8,4 +8,8 @@
   (lib (name LLC_U2)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/UCC24624DT - LLC Chip/footprints.pretty")(options "")(descr ""))
   (lib (name LLC_O1)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/PS2501L-1-F3-A/footprints.pretty")(options "")(descr ""))
   (lib (name LLC_VR1)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/TLV431AIDBVT - LLC/footprints.pretty")(options "")(descr ""))
+  (lib (name LLC_T1)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/Trans_EPCOS_B65982E0012D001/eec.pretty")(options "")(descr ""))
+  (lib (name PFC_L1)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/FIT106-2")(options "")(descr ""))
+  (lib (name LLC_Lr)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/PA4344_473ANLT/footprints.pretty")(options "")(descr ""))
+  (lib (name Connector2x1)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/1792229")(options "")(descr ""))
 )
