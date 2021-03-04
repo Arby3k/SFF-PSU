@@ -162,7 +162,7 @@ U 1 1 600C4D44
 P 9500 2100
 F 0 "Cout1" H 9615 2146 50  0000 L CNN
 F 1 "18.113m" H 9615 2055 50  0000 L CNN
-F 2 "" H 9538 1950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 9538 1950 50  0001 C CNN
 F 3 "~" H 9500 2100 50  0001 C CNN
 	1    9500 2100
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 600C668F
 P 10150 2100
 F 0 "Coutx1" H 10265 2146 50  0000 L CNN
 F 1 "100n" H 10265 2055 50  0000 L CNN
-F 2 "" H 10188 1950 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal" H 10188 1950 50  0001 C CNN
 F 3 "~" H 10150 2100 50  0001 C CNN
 	1    10150 2100
 	1    0    0    -1  
@@ -345,17 +345,6 @@ Wire Wire Line
 Wire Wire Line
 	9500 2250 9500 2850
 Connection ~ 9500 2850
-$Comp
-L Diode:1N5406 Dboost1
-U 1 1 6011B734
-P 8350 1400
-F 0 "Dboost1" H 8350 1183 50  0000 C CNN
-F 1 "1N5406" H 8350 1274 50  0000 C CNN
-F 2 "Diode_THT:D_DO-201AD_P15.24mm_Horizontal" H 8350 1225 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/88516/1n5400.pdf" H 8350 1400 50  0001 C CNN
-	1    8350 1400
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	8200 1400 8100 1400
 Wire Wire Line
@@ -416,17 +405,6 @@ F 3 "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf" H 6950 1750 50  0
 $EndComp
 Wire Wire Line
 	6650 1750 6800 1750
-$Comp
-L Diode:1N5406 Dstart1
-U 1 1 6013E3AC
-P 7150 950
-F 0 "Dstart1" H 7150 733 50  0000 C CNN
-F 1 "1N5406" H 7150 824 50  0000 C CNN
-F 2 "Diode_THT:D_DO-201AD_P15.24mm_Horizontal" H 7150 775 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/88516/1n5400.pdf" H 7150 950 50  0001 C CNN
-	1    7150 950 
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	7300 950  8650 950 
 $Comp
@@ -673,4 +651,26 @@ Wire Wire Line
 Wire Wire Line
 	10550 2850 10150 2850
 Connection ~ 10150 2850
+$Comp
+L Diode:C3D10060A Dstart1
+U 1 1 60406B85
+P 7150 950
+F 0 "Dstart1" H 7150 733 50  0000 C CNN
+F 1 "C3D10060A" H 7150 824 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-2_Vertical" H 7150 775 50  0001 C CNN
+F 3 "https://www.wolfspeed.com/media/downloads/842/C3D10060A.pdf" H 7150 950 50  0001 C CNN
+	1    7150 950 
+	-1   0    0    1   
+$EndComp
+$Comp
+L Diode:UF5406 Dboost1
+U 1 1 60412A9A
+P 8350 1400
+F 0 "Dboost1" H 8350 1183 50  0000 C CNN
+F 1 "UF5406" H 8350 1274 50  0000 C CNN
+F 2 "Diode_THT:D_DO-201AD_P15.24mm_Horizontal" H 8350 1225 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88756/uf5400.pdf" H 8350 1400 50  0001 C CNN
+	1    8350 1400
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
