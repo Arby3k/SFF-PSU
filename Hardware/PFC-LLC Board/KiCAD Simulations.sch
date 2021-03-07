@@ -483,13 +483,13 @@ Wire Wire Line
 Wire Wire Line
 	6500 3700 6400 3700
 Wire Wire Line
-	6500 3600 8200 3600
+	6500 3600 7800 3600
 Wire Wire Line
 	6550 3700 6550 3800
 Wire Wire Line
 	1450 3600 4400 3600
 Wire Wire Line
-	2450 3700 4400 3700
+	2450 3700 3850 3700
 Wire Wire Line
 	3950 3800 4400 3800
 Wire Wire Line
@@ -509,7 +509,7 @@ Wire Wire Line
 Wire Wire Line
 	3950 4650 4300 4650
 Wire Wire Line
-	6400 3500 6650 3500
+	6400 3500 6500 3500
 Wire Wire Line
 	6400 3800 6550 3800
 Wire Wire Line
@@ -673,4 +673,46 @@ F 3 "http://www.vishay.com/docs/88756/uf5400.pdf" H 8350 1400 50  0001 C CNN
 	1    8350 1400
 	-1   0    0    1   
 $EndComp
+$Comp
+L Connector:TestPoint TPgate1
+U 1 1 60449B0C
+P 6500 3500
+F 0 "TPgate1" H 6558 3618 50  0000 L CNN
+F 1 "TestPoint" H 6558 3527 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 6700 3500 50  0001 C CNN
+F 3 "~" H 6700 3500 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+Connection ~ 6500 3500
+Wire Wire Line
+	6500 3500 6650 3500
+$Comp
+L Connector:TestPoint TPvsense1
+U 1 1 6044C5BE
+P 7800 3600
+F 0 "TPvsense1" H 7858 3718 50  0000 L CNN
+F 1 "TestPoint" H 7858 3627 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 8000 3600 50  0001 C CNN
+F 3 "~" H 8000 3600 50  0001 C CNN
+	1    7800 3600
+	1    0    0    -1  
+$EndComp
+Connection ~ 7800 3600
+Wire Wire Line
+	7800 3600 8200 3600
+$Comp
+L Connector:TestPoint TPisense1
+U 1 1 6044D3B8
+P 3850 3700
+F 0 "TPisense1" H 3908 3818 50  0000 L CNN
+F 1 "TestPoint" H 3908 3727 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 4050 3700 50  0001 C CNN
+F 3 "~" H 4050 3700 50  0001 C CNN
+	1    3850 3700
+	1    0    0    -1  
+$EndComp
+Connection ~ 3850 3700
+Wire Wire Line
+	3850 3700 4400 3700
 $EndSCHEMATC

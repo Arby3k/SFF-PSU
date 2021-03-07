@@ -769,7 +769,7 @@ Wire Wire Line
 Wire Wire Line
 	7700 5900 7700 5700
 Wire Wire Line
-	7700 5700 6850 5700
+	7700 5700 7350 5700
 Wire Wire Line
 	4500 5700 4500 6600
 Wire Wire Line
@@ -979,19 +979,11 @@ Wire Wire Line
 	2250 2700 2250 2750
 Text Label 3200 1550 0    50   ~ 0
 HO
-Wire Wire Line
-	3400 1550 3200 1550
-Wire Wire Line
-	3400 2550 3200 2550
 Text Label 3200 2550 0    50   ~ 0
 LO
-Wire Wire Line
-	3800 2050 3200 2050
 Connection ~ 3800 2050
 Text Label 3200 2050 0    50   ~ 0
 HS
-Wire Wire Line
-	2250 2750 2000 2750
 Connection ~ 2250 2750
 Wire Wire Line
 	2250 2750 2250 2900
@@ -1815,4 +1807,72 @@ Connection ~ 14250 5500
 Wire Wire Line
 	13400 7500 15200 7500
 Connection ~ 15200 7500
+$Comp
+L Connector:TestPoint TPlo1
+U 1 1 604713E7
+P 2750 2550
+F 0 "TPlo1" H 2808 2668 50  0000 L CNN
+F 1 "TestPoint" H 2808 2577 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2950 2550 50  0001 C CNN
+F 3 "~" H 2950 2550 50  0001 C CNN
+	1    2750 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TPhs1
+U 1 1 60474AAF
+P 2750 2050
+F 0 "TPhs1" H 2808 2168 50  0000 L CNN
+F 1 "TestPoint" H 2808 2077 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2950 2050 50  0001 C CNN
+F 3 "~" H 2950 2050 50  0001 C CNN
+	1    2750 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TPho1
+U 1 1 6049555F
+P 2750 1550
+F 0 "TPho1" H 2808 1668 50  0000 L CNN
+F 1 "TestPoint" H 2808 1577 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2950 1550 50  0001 C CNN
+F 3 "~" H 2950 1550 50  0001 C CNN
+	1    2750 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TPblk1
+U 1 1 604B5F07
+P 1550 2750
+F 0 "TPblk1" H 1608 2868 50  0000 L CNN
+F 1 "TestPoint" H 1608 2777 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 1750 2750 50  0001 C CNN
+F 3 "~" H 1750 2750 50  0001 C CNN
+	1    1550 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2750 1550 3400 1550
+Wire Wire Line
+	2750 2050 3800 2050
+Wire Wire Line
+	2750 2550 3400 2550
+Wire Wire Line
+	1550 2750 2250 2750
+$Comp
+L Connector:TestPoint TPisns1
+U 1 1 6055972F
+P 7350 5350
+F 0 "TPisns1" H 7408 5468 50  0000 L CNN
+F 1 "TestPoint" H 7408 5377 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 7550 5350 50  0001 C CNN
+F 3 "~" H 7550 5350 50  0001 C CNN
+	1    7350 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 5350 7350 5700
+Connection ~ 7350 5700
+Wire Wire Line
+	7350 5700 6850 5700
 $EndSCHEMATC
