@@ -524,8 +524,6 @@ $EndComp
 Wire Wire Line
 	6850 1850 8200 1850
 Wire Wire Line
-	5150 1750 5150 1850
-Wire Wire Line
 	8200 2050 6450 2050
 Connection ~ 5150 2050
 Wire Wire Line
@@ -1535,12 +1533,7 @@ F 3 "" H 6250 1850 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4550 1750 4550 2050
-Wire Wire Line
-	6250 1850 5150 1850
-Connection ~ 5150 1850
-Wire Wire Line
-	5150 1850 5150 2050
+	4550 1750 4550 1850
 $Comp
 L Connector2x1:1792229 J?
 U 1 1 6059298A
@@ -1875,4 +1868,11 @@ Wire Wire Line
 Connection ~ 7350 5700
 Wire Wire Line
 	7350 5700 6850 5700
+Wire Wire Line
+	5150 1750 5150 2050
+Wire Wire Line
+	6250 1850 4550 1850
+Connection ~ 4550 1850
+Wire Wire Line
+	4550 1850 4550 2050
 $EndSCHEMATC

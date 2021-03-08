@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# EPCOS B65982E0012D001
+#
+DEF B65982E0012D001 T 0 40 Y Y 1 L N
+F0 "T" 0 200 50 H V L CNN 
+F1 "B65982E0012D001" 0 300 50 H V L CNN 
+F2 "EPCOS-B65982E0012D001-*" 0 400 50 H I L CNN 
+F3 "https://www.tdk-electronics.tdk.com/inf/80/db/fer/pq_50_50.pdf" 0 500 50 H I L CNN 
+F4 "No" 0 600 50 H I L CNN "automotive"
+F5 "Trans" 0 700 50 H I L CNN "category"
+F6 "Passive Components" 0 800 50 H I L CNN "device class L1"
+F7 "Transformers" 0 900 50 H I L CNN "device class L2"
+F8 "unset" 0 1000 50 H I L CNN "device class L3"
+F9 "BOBBIN COIL FORMER PQ 50 X 50" 0 1100 50 H I L CNN "digikey description"
+F10 "495-5359-ND" 0 1200 50 H I L CNN "digikey part number"
+F11 "52.5mm" 0 1300 50 H I L CNN "height"
+F12 "Yes" 0 1400 50 H I L CNN "lead free"
+F13 "dbc121a266b82526" 0 1500 50 H I L CNN "library id"
+F14 "EPCOS" 0 1600 50 H I L CNN "manufacturer"
+F15 "Ferrite Core 51mm 45.72mm 51mm General Application" 0 1700 50 H I L CNN "mouser description"
+F16 "871-B65982E0012D001" 0 1800 50 H I L CNN "mouser part number"
+F17 "PTH_TRANSFORMER" 0 1900 50 H I L CNN "package"
+F18 "Yes" 0 2000 50 H I L CNN "rohs"
+F19 "1mm" 0 2100 50 H I L CNN "standoff height"
+DRAW
+X 1 1 100 0 100 R 40 40 1 1 P 
+X 2 2 100 -100 100 R 40 40 1 1 P 
+X 3 3 100 -200 100 R 40 40 1 1 P 
+X 4 4 100 -300 100 R 40 40 1 1 P 
+X 5 5 100 -400 100 R 40 40 1 1 P 
+X 6 6 100 -500 100 R 40 40 1 1 P 
+X 7 7 900 -500 100 L 40 40 1 1 P 
+X 8 8 900 -400 100 L 40 40 1 1 P 
+X 9 9 900 -300 100 L 40 40 1 1 P 
+X 10 10 900 -200 100 L 40 40 1 1 P 
+X 11 11 900 -100 100 L 40 40 1 1 P 
+X 12 12 900 0 100 L 40 40 1 1 P 
+S 200 100 800 -600 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library
