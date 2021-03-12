@@ -19,7 +19,7 @@ U 1 1 600B3168
 P 4250 2950
 F 0 "Risense1" V 4457 2950 50  0000 C CNN
 F 1 "221" V 4366 2950 50  0000 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 4180 2950 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 4180 2950 50  0001 C CNN
 F 3 "~" H 4250 2950 50  0001 C CNN
 	1    4250 2950
 	0    -1   -1   0   
@@ -30,7 +30,7 @@ U 1 1 600B5F8B
 P 2450 4100
 F 0 "Cisense1" H 2565 4146 50  0000 L CNN
 F 1 "1n" H 2565 4055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder" H 2488 3950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 2488 3950 50  0001 C CNN
 F 3 "~" H 2450 4100 50  0001 C CNN
 	1    2450 4100
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 600BE719
 P 3950 4300
 F 0 "Rfreq1" H 4020 4346 50  0000 L CNN
 F 1 "17.4k" H 4020 4255 50  0000 L CNN
-F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 3880 4300 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 3880 4300 50  0001 C CNN
 F 3 "~" H 3950 4300 50  0001 C CNN
 	1    3950 4300
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 600BF9BB
 P 7100 3950
 F 0 "Ccomp1" H 7215 3996 50  0000 L CNN
 F 1 "22u" H 7215 3905 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7138 3800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 7138 3800 50  0001 C CNN
 F 3 "~" H 7100 3950 50  0001 C CNN
 	1    7100 3950
 	1    0    0    -1  
@@ -85,7 +85,7 @@ U 1 1 600C0AC3
 P 7100 4350
 F 0 "Rcomp1" H 7170 4396 50  0000 L CNN
 F 1 "15.4k" H 7170 4305 50  0000 L CNN
-F 2 "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 7030 4350 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 7030 4350 50  0001 C CNN
 F 3 "~" H 7100 4350 50  0001 C CNN
 	1    7100 4350
 	1    0    0    -1  
@@ -96,7 +96,7 @@ U 1 1 600C12BE
 P 7650 4000
 F 0 "Ccomp2" H 7765 4046 50  0000 L CNN
 F 1 "560n" H 7765 3955 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 7688 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 7688 3850 50  0001 C CNN
 F 3 "~" H 7650 4000 50  0001 C CNN
 	1    7650 4000
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 600C2051
 P 8200 4000
 F 0 "Cvsense1" H 8315 4046 50  0000 L CNN
 F 1 "4.7n" H 8315 3955 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder" H 8238 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 8238 3850 50  0001 C CNN
 F 3 "~" H 8200 4000 50  0001 C CNN
 	1    8200 4000
 	1    0    0    -1  
@@ -118,7 +118,7 @@ U 1 1 600C2C81
 P 8800 4000
 F 0 "Rfbb1" H 8870 4046 50  0000 L CNN
 F 1 "12.1k" H 8870 3955 50  0000 L CNN
-F 2 "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 8730 4000 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 8730 4000 50  0001 C CNN
 F 3 "~" H 8800 4000 50  0001 C CNN
 	1    8800 4000
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 600CE825
 P 5300 2850
 F 0 "Rsense1" V 5507 2850 50  0000 C CNN
 F 1 "15m" V 5416 2850 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 5230 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 5230 2850 50  0001 C CNN
 F 3 "~" H 5300 2850 50  0001 C CNN
 	1    5300 2850
 	0    -1   -1   0   
@@ -184,7 +184,7 @@ U 1 1 600D03B3
 P 7500 2600
 F 0 "Rgate2" H 7570 2646 50  0000 L CNN
 F 1 "10k" H 7570 2555 50  0000 L CNN
-F 2 "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 7430 2600 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 7430 2600 50  0001 C CNN
 F 3 "~" H 7500 2600 50  0001 C CNN
 	1    7500 2600
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 600D061A
 P 7250 2350
 F 0 "Rgate1" V 7457 2350 50  0000 C CNN
 F 1 "1.00" V 7366 2350 50  0000 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 7180 2350 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 7180 2350 50  0001 C CNN
 F 3 "~" H 7250 2350 50  0001 C CNN
 	1    7250 2350
 	0    -1   -1   0   
@@ -221,7 +221,7 @@ U 1 1 600B80EF
 P 3450 4100
 F 0 "Cvccx1" H 3565 4146 50  0000 L CNN
 F 1 "100n" H 3565 4055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3488 3950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 3488 3950 50  0001 C CNN
 F 3 "~" H 3450 4100 50  0001 C CNN
 	1    3450 4100
 	1    0    0    -1  
@@ -396,7 +396,7 @@ U 1 1 602938CE
 P 1450 4100
 F 0 "Cicomp1" H 1565 4146 50  0000 L CNN
 F 1 "3.3n" H 1565 4055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 1488 3950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 1488 3950 50  0001 C CNN
 F 3 "~" H 1450 4100 50  0001 C CNN
 	1    1450 4100
 	1    0    0    -1  
@@ -647,7 +647,7 @@ U 1 1 600CF74C
 P 6700 2150
 F 0 "Rgate3" H 6770 2196 50  0000 L CNN
 F 1 "3.92" H 6770 2105 50  0000 L CNN
-F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 6630 2150 50  0001 C CNN
+F 2 "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" V 6630 2150 50  0001 C CNN
 F 3 "~" H 6700 2150 50  0001 C CNN
 	1    6700 2150
 	1    0    0    -1  
@@ -781,10 +781,10 @@ F 3 "~" H 9500 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L KiCAD-Simulations-rescue:C-Device Cin
+L KiCAD-Simulations-rescue:C-Device Cin1
 U 1 1 604BB2B6
 P 4600 2050
-F 0 "Cin" H 4715 2096 50  0000 L CNN
+F 0 "Cin1" H 4715 2096 50  0000 L CNN
 F 1 "100n" H 4715 2005 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal" H 4638 1900 50  0001 C CNN
 F 3 "~" H 4600 2050 50  0001 C CNN
@@ -817,10 +817,10 @@ F 3 "~" H 8850 950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L KiCAD-Simulations-rescue:TestPoint-Connector TPDstart
+L KiCAD-Simulations-rescue:TestPoint-Connector TPDstart1
 U 1 1 604E97D9
 P 5850 950
-F 0 "TPDstart" V 5908 1068 50  0001 L BNN
+F 0 "TPDstart1" V 5908 1068 50  0001 L BNN
 F 1 "TestPoint Dstart" V 5908 977 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 6050 950 50  0001 C CNN
 F 3 "~" H 6050 950 50  0001 C CNN
