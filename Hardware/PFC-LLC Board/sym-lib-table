@@ -9,4 +9,5 @@
   (lib (name LLC_Cout)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/35SVPF120M/35SVPF120M.lib")(options "")(descr ""))
   (lib (name LLC_Lr)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/PA4344_473ANLT/PA4344_473ANLT.lib")(options "")(descr ""))
   (lib (name Connector2x1)(type Legacy)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/1792229/1792229.lib")(options "")(descr ""))
+  (lib (name KiCAD-Simulations-rescue)(type Legacy)(uri "${KIPRJMOD}/KiCAD Simulations-rescue.lib")(options "")(descr ""))
 )

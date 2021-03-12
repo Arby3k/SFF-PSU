@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Device:C Cin2
+L KiCAD-Simulations-rescue:C-Device Cin2
 U 1 1 602670E5
 P 1350 1600
 F 0 "Cin2" H 1465 1646 50  0000 L CNN
@@ -25,7 +25,7 @@ F 3 "~" H 1350 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cinx1
+L KiCAD-Simulations-rescue:C-Device Cinx1
 U 1 1 602679C2
 P 1750 1600
 F 0 "Cinx1" H 1865 1646 50  0000 L CNN
@@ -36,7 +36,7 @@ F 3 "~" H 1750 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R20
+L KiCAD-Simulations-rescue:R-Device R20
 U 1 1 60267FCC
 P 2250 1550
 F 0 "R20" H 2320 1596 50  0000 L CNN
@@ -47,7 +47,7 @@ F 3 "~" H 2250 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R28
+L KiCAD-Simulations-rescue:R-Device R28
 U 1 1 602689AE
 P 2250 2050
 F 0 "R28" H 2320 2096 50  0000 L CNN
@@ -58,7 +58,7 @@ F 3 "~" H 2250 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R27
+L KiCAD-Simulations-rescue:R-Device R27
 U 1 1 60268C37
 P 2250 2550
 F 0 "R27" H 2320 2596 50  0000 L CNN
@@ -69,7 +69,7 @@ F 3 "~" H 2250 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C16
+L KiCAD-Simulations-rescue:C-Device C16
 U 1 1 60269459
 P 2800 3200
 F 0 "C16" H 2915 3246 50  0000 L CNN
@@ -80,7 +80,7 @@ F 3 "~" H 2800 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rho1
+L KiCAD-Simulations-rescue:R-Device Rho1
 U 1 1 6026A365
 P 3550 1550
 F 0 "Rho1" V 3757 1550 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "~" H 3550 1550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R Rlo1
+L KiCAD-Simulations-rescue:R-Device Rlo1
 U 1 1 6026A596
 P 3550 2550
 F 0 "Rlo1" V 3757 2550 50  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "~" H 3550 2550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R Rdrv1
+L KiCAD-Simulations-rescue:R-Device Rdrv1
 U 1 1 6026A9D1
 P 3800 1800
 F 0 "Rdrv1" H 3870 1846 50  0000 L CNN
@@ -113,7 +113,7 @@ F 3 "~" H 3800 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rdrv2
+L KiCAD-Simulations-rescue:R-Device Rdrv2
 U 1 1 6026B070
 P 3800 2800
 F 0 "Rdrv2" H 3870 2846 50  0000 L CNN
@@ -128,7 +128,7 @@ Wire Wire Line
 Wire Wire Line
 	1750 1250 1750 1450
 $Comp
-L Device:R R19
+L KiCAD-Simulations-rescue:R-Device R19
 U 1 1 602755D0
 P 2250 3200
 F 0 "R19" H 2320 3246 50  0000 L CNN
@@ -139,7 +139,7 @@ F 3 "~" H 2250 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cr1
+L KiCAD-Simulations-rescue:C-Device Cr1
 U 1 1 602779CD
 P 5150 1600
 F 0 "Cr1" H 5265 1646 50  0000 L CNN
@@ -150,7 +150,7 @@ F 3 "~" H 5150 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cr2
+L KiCAD-Simulations-rescue:C-Device Cr2
 U 1 1 602787C4
 P 5150 2550
 F 0 "Cr2" H 5265 2596 50  0000 L CNN
@@ -161,7 +161,7 @@ F 3 "~" H 5150 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cvcr1
+L KiCAD-Simulations-rescue:C-Device Cvcr1
 U 1 1 602790AA
 P 5700 2300
 F 0 "Cvcr1" H 5815 2346 50  0000 L CNN
@@ -172,7 +172,7 @@ F 3 "~" H 5700 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LLC_Cisns2:FA26C0G2J151JNU00 Cisns2
+L KiCAD-Simulations-rescue:FA26C0G2J151JNU00-LLC_Cisns2 Cisns2
 U 1 1 60279923
 P 6450 2450
 F 0 "Cisns2" H 6565 2496 50  0000 L CNN
@@ -183,7 +183,7 @@ F 3 "~" H 6450 2450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R Risns1
+L KiCAD-Simulations-rescue:R-Device Risns1
 U 1 1 6027A520
 P 6450 2800
 F 0 "Risns1" H 6520 2846 50  0000 L CNN
@@ -194,7 +194,7 @@ F 3 "~" H 6450 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rbw2
+L KiCAD-Simulations-rescue:R-Device Rbw2
 U 1 1 60286785
 P 7600 2800
 F 0 "Rbw2" H 7670 2846 50  0000 L CNN
@@ -205,7 +205,7 @@ F 3 "~" H 7600 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rbw1
+L KiCAD-Simulations-rescue:R-Device Rbw1
 U 1 1 60286C87
 P 7600 2400
 F 0 "Rbw1" H 7670 2446 50  0000 L CNN
@@ -216,7 +216,7 @@ F 3 "~" H 7600 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rboot1
+L KiCAD-Simulations-rescue:R-Device Rboot1
 U 1 1 6028804F
 P 8000 4500
 F 0 "Rboot1" V 7793 4500 50  0000 C CNN
@@ -227,7 +227,7 @@ F 3 "~" H 8000 4500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L pspice:DIODE Dboot1
+L KiCAD-Simulations-rescue:DIODE-pspice Dboot1
 U 1 1 602888C9
 P 8750 4500
 F 0 "Dboot1" H 8750 4765 50  0000 C CNN
@@ -238,7 +238,7 @@ F 3 "~" H 8750 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cboot1
+L KiCAD-Simulations-rescue:C-Device Cboot1
 U 1 1 60289DCA
 P 10000 5000
 F 0 "Cboot1" H 9885 4954 50  0000 R CNN
@@ -249,7 +249,7 @@ F 3 "~" H 10000 5000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:C Cvrcc1
+L KiCAD-Simulations-rescue:C-Device Cvrcc1
 U 1 1 6028AEE1
 P 6000 6750
 F 0 "Cvrcc1" H 6115 6796 50  0000 L CNN
@@ -260,7 +260,7 @@ F 3 "~" H 6000 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Crvcc2
+L KiCAD-Simulations-rescue:C-Device Crvcc2
 U 1 1 6028BDF4
 P 5500 6750
 F 0 "Crvcc2" H 5615 6796 50  0000 L CNN
@@ -271,7 +271,7 @@ F 3 "~" H 5500 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cbw1
+L KiCAD-Simulations-rescue:C-Device Cbw1
 U 1 1 6028C74B
 P 5000 6750
 F 0 "Cbw1" H 5115 6796 50  0000 L CNN
@@ -282,7 +282,7 @@ F 3 "~" H 5000 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cisns1
+L KiCAD-Simulations-rescue:C-Device Cisns1
 U 1 1 6028CE40
 P 4500 6750
 F 0 "Cisns1" H 4615 6796 50  0000 L CNN
@@ -293,7 +293,7 @@ F 3 "~" H 4500 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cvcc3
+L KiCAD-Simulations-rescue:C-Device Cvcc3
 U 1 1 6028D423
 P 4000 6750
 F 0 "Cvcc3" H 4115 6796 50  0000 L CNN
@@ -304,7 +304,7 @@ F 3 "~" H 4000 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rvcc1
+L KiCAD-Simulations-rescue:R-Device Rvcc1
 U 1 1 6028EC05
 P 6500 6250
 F 0 "Rvcc1" H 6570 6296 50  0000 L CNN
@@ -315,7 +315,7 @@ F 3 "~" H 6500 6250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rvcc2
+L KiCAD-Simulations-rescue:R-Device Rvcc2
 U 1 1 6028F8E9
 P 6500 6750
 F 0 "Rvcc2" H 6570 6796 50  0000 L CNN
@@ -326,7 +326,7 @@ F 3 "~" H 6500 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Creg1
+L KiCAD-Simulations-rescue:C-Device Creg1
 U 1 1 6029EC52
 P 9400 3200
 F 0 "Creg1" H 9515 3246 50  0000 L CNN
@@ -337,7 +337,7 @@ F 3 "~" H 9400 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Coutx22
+L KiCAD-Simulations-rescue:C-Device Coutx22
 U 1 1 602A06B0
 P 13700 2650
 F 0 "Coutx22" H 13815 2696 50  0000 L CNN
@@ -348,7 +348,7 @@ F 3 "~" H 13700 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rbias1
+L KiCAD-Simulations-rescue:R-Device Rbias1
 U 1 1 602A119E
 P 13500 6000
 F 0 "Rbias1" H 13570 6046 50  0000 L CNN
@@ -359,7 +359,7 @@ F 3 "~" H 13500 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rled1
+L KiCAD-Simulations-rescue:R-Device Rled1
 U 1 1 602A143C
 P 13500 5350
 F 0 "Rled1" H 13570 5396 50  0000 L CNN
@@ -370,7 +370,7 @@ F 3 "~" H 13500 5350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Cz1
+L KiCAD-Simulations-rescue:C-Device Cz1
 U 1 1 602A20A4
 P 14000 5250
 F 0 "Cz1" H 14115 5296 50  0000 L CNN
@@ -381,7 +381,7 @@ F 3 "~" H 14000 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rfbt4
+L KiCAD-Simulations-rescue:R-Device Rfbt4
 U 1 1 602A3AEC
 P 15200 5750
 F 0 "Rfbt4" H 15270 5796 50  0000 L CNN
@@ -392,7 +392,7 @@ F 3 "~" H 15200 5750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R Rfbb2
+L KiCAD-Simulations-rescue:R-Device Rfbb2
 U 1 1 602A48B6
 P 15200 7100
 F 0 "Rfbb2" H 15270 7146 50  0000 L CNN
@@ -403,7 +403,7 @@ F 3 "~" H 15200 7100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Ccomp3
+L KiCAD-Simulations-rescue:C-Device Ccomp3
 U 1 1 602A4F40
 P 14500 6500
 F 0 "Ccomp3" V 14248 6500 50  0000 C CNN
@@ -414,7 +414,7 @@ F 3 "~" H 14500 6500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R Rcomp2
+L KiCAD-Simulations-rescue:R-Device Rcomp2
 U 1 1 602A58CA
 P 14000 6500
 F 0 "Rcomp2" V 13793 6500 50  0000 C CNN
@@ -511,7 +511,7 @@ Wire Wire Line
 Wire Wire Line
 	7600 2550 7600 2600
 $Comp
-L Transformer:TRANSF6 TR1
+L KiCAD-Simulations-rescue:TRANSF6-Transformer TR1
 U 1 1 602E8C86
 P 8400 2150
 F 0 "TR1" H 8400 2632 50  0000 C CNN
@@ -566,7 +566,7 @@ Wire Wire Line
 Wire Wire Line
 	9300 2700 9700 2700
 $Comp
-L LLC_U2:UCC24624DT U2LLC1
+L KiCAD-Simulations-rescue:UCC24624DT-LLC_U2 U2LLC1
 U 1 1 6032F4E3
 P 9700 2700
 F 0 "U2LLC1" H 10500 3087 60  0000 C CNN
@@ -640,7 +640,7 @@ Connection ~ 9400 3500
 Wire Wire Line
 	9400 3500 9200 3500
 $Comp
-L LLC_U1:UCC256403DDBR U1LLC1
+L KiCAD-Simulations-rescue:UCC256403DDBR-LLC_U1 U1LLC1
 U 1 1 6037E47B
 P 7900 5500
 F 0 "U1LLC1" H 8700 5887 60  0000 C CNN
@@ -773,9 +773,11 @@ Wire Wire Line
 Wire Wire Line
 	6100 2550 6100 5800
 $Comp
-L power:GND #PWR0101
+L KiCAD-Simulations-rescue:GND-power #PWR0101
 U 1 1 604A7DD3
 P 9900 7000
+AR Path="/604A7DD3" Ref="#PWR0101"  Part="1" 
+AR Path="/60265390/604A7DD3" Ref="#PWR0101"  Part="1" 
 F 0 "#PWR0101" H 9900 6750 50  0001 C CNN
 F 1 "GND" H 9905 6827 50  0000 C CNN
 F 2 "" H 9900 7000 50  0001 C CNN
@@ -816,7 +818,7 @@ Wire Wire Line
 	8950 4500 9600 4500
 Connection ~ 9600 4500
 $Comp
-L Connector:Conn_01x02_Female J?
+L KiCAD-Simulations-rescue:Conn_01x02_Female-Connector J?
 U 1 1 604FF84C
 P 2800 6750
 AR Path="/604FF84C" Ref="J?"  Part="1" 
@@ -834,9 +836,11 @@ Wire Wire Line
 	3000 6750 3000 7000
 Connection ~ 3000 7000
 $Comp
-L power:GND #PWR0102
+L KiCAD-Simulations-rescue:GND-power #PWR0102
 U 1 1 60523E90
 P 7000 7000
+AR Path="/60523E90" Ref="#PWR0102"  Part="1" 
+AR Path="/60265390/60523E90" Ref="#PWR0102"  Part="1" 
 F 0 "#PWR0102" H 7000 6750 50  0001 C CNN
 F 1 "GND" H 7005 6827 50  0000 C CNN
 F 2 "" H 7000 7000 50  0001 C CNN
@@ -845,9 +849,11 @@ F 3 "" H 7000 7000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0103
+L KiCAD-Simulations-rescue:GND-power #PWR0103
 U 1 1 6052D851
 P 4850 3050
+AR Path="/6052D851" Ref="#PWR0103"  Part="1" 
+AR Path="/60265390/6052D851" Ref="#PWR0103"  Part="1" 
 F 0 "#PWR0103" H 4850 2800 50  0001 C CNN
 F 1 "GND" H 4855 2877 50  0000 C CNN
 F 2 "" H 4850 3050 50  0001 C CNN
@@ -867,7 +873,7 @@ Wire Wire Line
 Wire Wire Line
 	9500 5900 9900 5900
 $Comp
-L LLC_O1:PS2501L-1-F3-A UO1
+L KiCAD-Simulations-rescue:PS2501L-1-F3-A-LLC_O1 UO1
 U 1 1 605741CD
 P 12950 6000
 F 0 "UO1" H 14050 5513 60  0000 C CNN
@@ -908,7 +914,7 @@ Wire Wire Line
 Wire Wire Line
 	14650 6500 15000 6500
 $Comp
-L Device:R Rlimit1
+L KiCAD-Simulations-rescue:R-Device Rlimit1
 U 1 1 606A6DF7
 P 14850 5000
 F 0 "Rlimit1" V 14643 5000 50  0000 C CNN
@@ -919,7 +925,7 @@ F 3 "~" H 14850 5000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LLC_VR:TLV431AIDBVT UVR1
+L KiCAD-Simulations-rescue:TLV431AIDBVT-LLC_VR UVR1
 U 1 1 6027FFF5
 P 10850 6900
 F 0 "UVR1" H 12050 7287 60  0000 C CNN
@@ -944,9 +950,11 @@ Wire Wire Line
 Wire Wire Line
 	13400 6900 13400 7500
 $Comp
-L power:GND #PWR0105
+L KiCAD-Simulations-rescue:GND-power #PWR0105
 U 1 1 6038B870
 P 10250 6100
+AR Path="/6038B870" Ref="#PWR0105"  Part="1" 
+AR Path="/60265390/6038B870" Ref="#PWR0105"  Part="1" 
 F 0 "#PWR0105" H 10250 5850 50  0001 C CNN
 F 1 "GND" H 10255 5927 50  0000 C CNN
 F 2 "" H 10250 6100 50  0001 C CNN
@@ -1007,7 +1015,7 @@ Connection ~ 10000 5500
 Text Label 10200 5500 0    50   ~ 0
 HS
 $Comp
-L Transistor_FET:C2M0025120D QM4
+L KiCAD-Simulations-rescue:C2M0025120D-Transistor_FET QM4
 U 1 1 604F925E
 P 11900 2650
 F 0 "QM4" H 12104 2696 50  0000 L CNN
@@ -1018,7 +1026,7 @@ F 3 "https://www.wolfspeed.com/media/downloads/161/C2M0025120D.pdf" H 11900 2650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Transistor_FET:C2M0025120D QM3
+L KiCAD-Simulations-rescue:C2M0025120D-Transistor_FET QM3
 U 1 1 60510615
 P 9100 2700
 F 0 "QM3" H 9305 2654 50  0000 L CNN
@@ -1029,9 +1037,11 @@ F 3 "https://www.wolfspeed.com/media/downloads/161/C2M0025120D.pdf" H 9100 2700 
 	-1   0    0    1   
 $EndComp
 $Comp
-L Transistor_FET:IPP060N06N QM1
+L KiCAD-Simulations-rescue:IPP060N06N-Transistor_FET QM1
 U 1 1 6051EFD6
 P 4450 1550
+AR Path="/6051EFD6" Ref="QM1"  Part="1" 
+AR Path="/60265390/6051EFD6" Ref="QM1"  Part="1" 
 F 0 "QM1" H 4655 1596 50  0000 L CNN
 F 1 "IPP060N06N" H 4655 1505 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-247-3_Vertical" H 4700 1475 50  0001 L CIN
@@ -1040,9 +1050,11 @@ F 3 "https://www.infineon.com/dgdl/Infineon-IPP060N06N-DS-v02_02-en.pdf?fileId=d
 	1    0    0    -1  
 $EndComp
 $Comp
-L Transistor_FET:IPP060N06N QM2
+L KiCAD-Simulations-rescue:IPP060N06N-Transistor_FET QM2
 U 1 1 605213C4
 P 4450 2550
+AR Path="/605213C4" Ref="QM2"  Part="1" 
+AR Path="/60265390/605213C4" Ref="QM2"  Part="1" 
 F 0 "QM2" H 4655 2596 50  0000 L CNN
 F 1 "IPP060N06N" H 4655 2505 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-247-3_Vertical" H 4700 2475 50  0001 L CIN
@@ -1053,7 +1065,7 @@ $EndComp
 Wire Wire Line
 	1350 1750 1350 1950
 $Comp
-L Diode:BZX84Cxx Dz1
+L KiCAD-Simulations-rescue:BZX84Cxx-Diode Dz1
 U 1 1 605C42FA
 P 14500 5250
 F 0 "Dz1" V 14454 5330 50  0000 L CNN
@@ -1074,9 +1086,11 @@ Wire Wire Line
 Wire Wire Line
 	13700 2800 13700 3250
 $Comp
-L power:GND #PWR0104
+L KiCAD-Simulations-rescue:GND-power #PWR0104
 U 1 1 602D231B
 P 2250 3500
+AR Path="/602D231B" Ref="#PWR0104"  Part="1" 
+AR Path="/60265390/602D231B" Ref="#PWR0104"  Part="1" 
 F 0 "#PWR0104" H 2250 3250 50  0001 C CNN
 F 1 "GND" H 2255 3327 50  0000 C CNN
 F 2 "" H 2250 3500 50  0001 C CNN
@@ -1085,9 +1099,11 @@ F 3 "" H 2250 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0106
+L KiCAD-Simulations-rescue:GND-power #PWR0106
 U 1 1 602E0F37
 P 1750 1950
+AR Path="/602E0F37" Ref="#PWR0106"  Part="1" 
+AR Path="/60265390/602E0F37" Ref="#PWR0106"  Part="1" 
 F 0 "#PWR0106" H 1750 1700 50  0001 C CNN
 F 1 "GND" H 1755 1777 50  0000 C CNN
 F 2 "" H 1750 1950 50  0001 C CNN
@@ -1106,7 +1122,7 @@ Wire Wire Line
 	2800 3500 2250 3500
 Connection ~ 2250 3500
 $Comp
-L Device:C Cvcr22
+L KiCAD-Simulations-rescue:C-Device Cvcr22
 U 1 1 6032B684
 P 3600 3800
 F 0 "Cvcr22" H 3715 3846 50  0000 L CNN
@@ -1119,7 +1135,7 @@ $EndComp
 Wire Wire Line
 	3600 3550 3600 3650
 $Comp
-L Device:C Cvcr23
+L KiCAD-Simulations-rescue:C-Device Cvcr23
 U 1 1 6033A5B7
 P 4050 3800
 F 0 "Cvcr23" H 4165 3846 50  0000 L CNN
@@ -1132,7 +1148,7 @@ $EndComp
 Wire Wire Line
 	4050 3550 4050 3650
 $Comp
-L Device:C Cvcr24
+L KiCAD-Simulations-rescue:C-Device Cvcr24
 U 1 1 6034980A
 P 4500 3800
 F 0 "Cvcr24" H 4615 3846 50  0000 L CNN
@@ -1145,7 +1161,7 @@ $EndComp
 Wire Wire Line
 	4500 3550 4500 3650
 $Comp
-L Device:C Cvcr25
+L KiCAD-Simulations-rescue:C-Device Cvcr25
 U 1 1 60377FAD
 P 4950 3800
 F 0 "Cvcr25" H 5065 3846 50  0000 L CNN
@@ -1158,7 +1174,7 @@ $EndComp
 Wire Wire Line
 	4950 3550 4950 3650
 $Comp
-L Device:C Cvcr26
+L KiCAD-Simulations-rescue:C-Device Cvcr26
 U 1 1 60387D41
 P 5400 3800
 F 0 "Cvcr26" H 5515 3846 50  0000 L CNN
@@ -1171,7 +1187,7 @@ $EndComp
 Wire Wire Line
 	5400 3550 5400 3650
 $Comp
-L Device:C Cvcr21
+L KiCAD-Simulations-rescue:C-Device Cvcr21
 U 1 1 60397D09
 P 3150 3800
 F 0 "Cvcr21" H 3265 3846 50  0000 L CNN
@@ -1238,7 +1254,7 @@ Wire Wire Line
 	5650 2950 5700 2950
 Connection ~ 5400 4050
 $Comp
-L Device:C Coutx23
+L KiCAD-Simulations-rescue:C-Device Coutx23
 U 1 1 60683FFA
 P 14200 2650
 F 0 "Coutx23" H 14315 2696 50  0000 L CNN
@@ -1251,7 +1267,7 @@ $EndComp
 Wire Wire Line
 	14200 2800 14200 3250
 $Comp
-L Device:C Coutx21
+L KiCAD-Simulations-rescue:C-Device Coutx21
 U 1 1 6069A4FA
 P 13200 2650
 F 0 "Coutx21" H 13315 2696 50  0000 L CNN
@@ -1262,7 +1278,7 @@ F 3 "~" H 13200 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Coutx24
+L KiCAD-Simulations-rescue:C-Device Coutx24
 U 1 1 606B0945
 P 14700 2650
 F 0 "Coutx24" H 14815 2696 50  0000 L CNN
@@ -1283,7 +1299,7 @@ Wire Wire Line
 Wire Wire Line
 	14700 2500 14700 2050
 $Comp
-L Device:CP Cvcc21
+L KiCAD-Simulations-rescue:CP-Device Cvcc21
 U 1 1 607501C0
 P 3700 7750
 F 0 "Cvcc21" H 3818 7796 50  0000 L CNN
@@ -1294,7 +1310,7 @@ F 3 "~" H 3700 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc22
+L KiCAD-Simulations-rescue:CP-Device Cvcc22
 U 1 1 6077EA3A
 P 4200 7750
 F 0 "Cvcc22" H 4318 7796 50  0000 L CNN
@@ -1305,7 +1321,7 @@ F 3 "~" H 4200 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc23
+L KiCAD-Simulations-rescue:CP-Device Cvcc23
 U 1 1 60796198
 P 4700 7750
 F 0 "Cvcc23" H 4818 7796 50  0000 L CNN
@@ -1316,7 +1332,7 @@ F 3 "~" H 4700 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc24
+L KiCAD-Simulations-rescue:CP-Device Cvcc24
 U 1 1 607C60CF
 P 5200 7750
 F 0 "Cvcc24" H 5318 7796 50  0000 L CNN
@@ -1327,7 +1343,7 @@ F 3 "~" H 5200 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc25
+L KiCAD-Simulations-rescue:CP-Device Cvcc25
 U 1 1 607C60D5
 P 5700 7750
 F 0 "Cvcc25" H 5818 7796 50  0000 L CNN
@@ -1338,7 +1354,7 @@ F 3 "~" H 5700 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc26
+L KiCAD-Simulations-rescue:CP-Device Cvcc26
 U 1 1 607C60DB
 P 6200 7750
 F 0 "Cvcc26" H 6318 7796 50  0000 L CNN
@@ -1349,7 +1365,7 @@ F 3 "~" H 6200 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc27
+L KiCAD-Simulations-rescue:CP-Device Cvcc27
 U 1 1 607DE29E
 P 6700 7750
 F 0 "Cvcc27" H 6818 7796 50  0000 L CNN
@@ -1360,7 +1376,7 @@ F 3 "~" H 6700 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP Cvcc28
+L KiCAD-Simulations-rescue:CP-Device Cvcc28
 U 1 1 607DE2A4
 P 7200 7750
 F 0 "Cvcc28" H 7318 7796 50  0000 L CNN
@@ -1459,7 +1475,7 @@ Wire Wire Line
 	3500 7000 4000 7000
 Connection ~ 3700 8000
 $Comp
-L Device:C Css11
+L KiCAD-Simulations-rescue:C-Device Css11
 U 1 1 60ACBF0D
 P 8200 7500
 F 0 "Css11" H 8315 7546 50  0000 L CNN
@@ -1470,7 +1486,7 @@ F 3 "~" H 8200 7500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Css12
+L KiCAD-Simulations-rescue:C-Device Css12
 U 1 1 60AE9E47
 P 8650 7500
 F 0 "Css12" H 8765 7546 50  0000 L CNN
@@ -1481,7 +1497,7 @@ F 3 "~" H 8650 7500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C Css13
+L KiCAD-Simulations-rescue:C-Device Css13
 U 1 1 60B078B1
 P 9100 7500
 F 0 "Css13" H 9215 7546 50  0000 L CNN
@@ -1522,7 +1538,7 @@ Wire Wire Line
 	6200 8000 6700 8000
 Connection ~ 6200 8000
 $Comp
-L LLC_Lr:PA4344.473ANLT Lr1
+L KiCAD-Simulations-rescue:PA4344.473ANLT-LLC_Lr Lr1
 U 1 1 6045B333
 P 6250 1850
 F 0 "Lr1" H 6550 2088 60  0000 C CNN
@@ -1535,7 +1551,7 @@ $EndComp
 Wire Wire Line
 	4550 1750 4550 1850
 $Comp
-L Connector2x1:1792229 J?
+L KiCAD-Simulations-rescue:1792229-Connector2x1 J?
 U 1 1 6059298A
 P 750 1600
 AR Path="/6059298A" Ref="J?"  Part="1" 
@@ -1563,7 +1579,7 @@ Wire Wire Line
 	1150 1950 1350 1950
 Connection ~ 1350 1950
 $Comp
-L Connector2x1:1792229 J?
+L KiCAD-Simulations-rescue:1792229-Connector2x1 J?
 U 1 1 60613B6D
 P 15750 2650
 AR Path="/60613B6D" Ref="J?"  Part="1" 
@@ -1624,7 +1640,7 @@ Wire Wire Line
 Wire Wire Line
 	11400 3700 11650 3700
 $Comp
-L LLC_Cout:35SVPF120M Cout21
+L KiCAD-Simulations-rescue:35SVPF120M-LLC_Cout Cout21
 U 1 1 60551181
 P 11400 3700
 F 0 "Cout21" H 11518 3746 50  0000 L CNN
@@ -1635,7 +1651,7 @@ F 3 "~" H 11400 3700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LLC_Cout:35SVPF120M Cout26
+L KiCAD-Simulations-rescue:35SVPF120M-LLC_Cout Cout26
 U 1 1 6053D48F
 P 12650 3700
 F 0 "Cout26" H 12768 3746 50  0000 L CNN
@@ -1646,7 +1662,7 @@ F 3 "~" H 12650 3700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LLC_Cout:35SVPF120M Cout25
+L KiCAD-Simulations-rescue:35SVPF120M-LLC_Cout Cout25
 U 1 1 60529E1E
 P 12400 3700
 F 0 "Cout25" H 12518 3746 50  0000 L CNN
@@ -1657,7 +1673,7 @@ F 3 "~" H 12400 3700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LLC_Cout:35SVPF120M Cout24
+L KiCAD-Simulations-rescue:35SVPF120M-LLC_Cout Cout24
 U 1 1 605033E8
 P 12150 3700
 F 0 "Cout24" H 12268 3746 50  0000 L CNN
@@ -1668,7 +1684,7 @@ F 3 "~" H 12150 3700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LLC_Cout:35SVPF120M Cout23
+L KiCAD-Simulations-rescue:35SVPF120M-LLC_Cout Cout23
 U 1 1 604EFC04
 P 11900 3700
 F 0 "Cout23" H 12018 3746 50  0000 L CNN
@@ -1679,7 +1695,7 @@ F 3 "~" H 11900 3700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LLC_Cout:35SVPF120M Cout22
+L KiCAD-Simulations-rescue:35SVPF120M-LLC_Cout Cout22
 U 1 1 604DC736
 P 11650 3700
 F 0 "Cout22" H 11768 3746 50  0000 L CNN
@@ -1759,7 +1775,7 @@ Wire Wire Line
 	15350 3250 14700 3250
 Connection ~ 14700 3250
 $Comp
-L power:GND1 #PWR0108
+L KiCAD-Simulations-rescue:GND1-power #PWR0108
 U 1 1 609CE495
 P 15350 3250
 F 0 "#PWR0108" H 15350 3000 50  0001 C CNN
@@ -1771,7 +1787,7 @@ F 3 "" H 15350 3250 50  0001 C CNN
 $EndComp
 Connection ~ 15350 3250
 $Comp
-L power:GND1 #PWR0109
+L KiCAD-Simulations-rescue:GND1-power #PWR0109
 U 1 1 609D1529
 P 14250 5500
 F 0 "#PWR0109" H 14250 5250 50  0001 C CNN
@@ -1782,7 +1798,7 @@ F 3 "" H 14250 5500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND1 #PWR0110
+L KiCAD-Simulations-rescue:GND1-power #PWR0110
 U 1 1 60A11FA4
 P 15200 7500
 F 0 "#PWR0110" H 15200 7250 50  0001 C CNN
@@ -1801,7 +1817,7 @@ Wire Wire Line
 	13400 7500 15200 7500
 Connection ~ 15200 7500
 $Comp
-L Connector:TestPoint TPlo1
+L KiCAD-Simulations-rescue:TestPoint-Connector TPlo1
 U 1 1 604713E7
 P 2750 2550
 F 0 "TPlo1" H 2808 2668 50  0000 L CNN
@@ -1812,7 +1828,7 @@ F 3 "~" H 2950 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPhs1
+L KiCAD-Simulations-rescue:TestPoint-Connector TPhs1
 U 1 1 60474AAF
 P 2750 2050
 F 0 "TPhs1" H 2808 2168 50  0000 L CNN
@@ -1823,7 +1839,7 @@ F 3 "~" H 2950 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPho1
+L KiCAD-Simulations-rescue:TestPoint-Connector TPho1
 U 1 1 6049555F
 P 2750 1550
 F 0 "TPho1" H 2808 1668 50  0000 L CNN
@@ -1834,7 +1850,7 @@ F 3 "~" H 2950 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPblk1
+L KiCAD-Simulations-rescue:TestPoint-Connector TPblk1
 U 1 1 604B5F07
 P 1550 2750
 F 0 "TPblk1" H 1608 2868 50  0000 L CNN
@@ -1853,7 +1869,7 @@ Wire Wire Line
 Wire Wire Line
 	1550 2750 2250 2750
 $Comp
-L Connector:TestPoint TPisns1
+L KiCAD-Simulations-rescue:TestPoint-Connector TPisns1
 U 1 1 6055972F
 P 7350 5350
 F 0 "TPisns1" H 7408 5468 50  0000 L CNN

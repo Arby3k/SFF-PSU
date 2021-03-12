@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# KiCAD-Simulations-rescue_1792229-Connector2x1
+# 1792229-Connector2x1
 #
-DEF KiCAD-Simulations-rescue_1792229-Connector2x1 J 0 40 Y Y 1 L N
+DEF 1792229-Connector2x1 J 0 40 Y Y 1 L N
 F0 "J" -200 300 50 H V L BNN
-F1 "KiCAD-Simulations-rescue_1792229-Connector2x1" -200 -400 50 H V L BNN
+F1 "1792229-Connector2x1" -200 -400 50 H V L BNN
 F2 "PHOENIX_1792229" 0 0 50 H I L BNN
 F3 "" 0 0 50 H I L BNN
 F4 "Phoenix Contact" 0 0 50 H I L BNN "MANUFACTURER"
@@ -18,11 +18,11 @@ X 2 2 -400 -100 200 R 40 40 0 0 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_1N4148-Diode
+# 1N4148-Diode
 #
-DEF KiCAD-Simulations-rescue_1N4148-Diode D 0 40 N N 1 F N
+DEF 1N4148-Diode D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_1N4148-Diode" 0 -100 50 H V C CNN
+F1 "1N4148-Diode" 0 -100 50 H V C CNN
 F2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -37,11 +37,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_35SVPF120M-LLC_Cout
+# 35SVPF120M-LLC_Cout
 #
-DEF KiCAD-Simulations-rescue_35SVPF120M-LLC_Cout C 0 65 N N 1 L N
+DEF 35SVPF120M-LLC_Cout C 0 65 N N 1 L N
 F0 "C" 150 150 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_35SVPF120M-LLC_Cout" 150 -300 60 H V C CNN
+F1 "35SVPF120M-LLC_Cout" 150 -300 60 H V C CNN
 F2 "PCAP_SVP_F12_PAN" 150 -360 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -61,11 +61,11 @@ X 2 2 300 0 100 L 59 59 1 1 U
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_B240-Diode
+# B240-Diode
 #
-DEF KiCAD-Simulations-rescue_B240-Diode D 0 40 N N 1 F N
+DEF B240-Diode D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_B240-Diode" 0 -100 50 H V C CNN
+F1 "B240-Diode" 0 -100 50 H V C CNN
 F2 "Diode_SMD:D_SMB" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -80,11 +80,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_BZX84Cxx-Diode
+# BZX84Cxx-Diode
 #
-DEF KiCAD-Simulations-rescue_BZX84Cxx-Diode D 0 40 N N 1 F N
+DEF BZX84Cxx-Diode D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_BZX84Cxx-Diode" 0 -100 50 H V C CNN
+F1 "BZX84Cxx-Diode" 0 -100 50 H V C CNN
 F2 "Diode_SMD:D_SOT-23_ANK" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -99,11 +99,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_C-Device
+# C-Device
 #
-DEF KiCAD-Simulations-rescue_C-Device C 0 10 N Y 1 F N
+DEF C-Device C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "KiCAD-Simulations-rescue_C-Device" 25 -100 50 H V L CNN
+F1 "C-Device" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -117,11 +117,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_C2M0025120D-Transistor_FET
+# C2M0025120D-Transistor_FET
 #
-DEF KiCAD-Simulations-rescue_C2M0025120D-Transistor_FET Q 0 20 Y N 1 F N
+DEF C2M0025120D-Transistor_FET Q 0 20 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "KiCAD-Simulations-rescue_C2M0025120D-Transistor_FET" 200 0 50 H V L CNN
+F1 "C2M0025120D-Transistor_FET" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-247-3_Vertical" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
@@ -148,11 +148,11 @@ X S 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_C2M0160120D-Transistor_FET
+# C2M0160120D-Transistor_FET
 #
-DEF KiCAD-Simulations-rescue_C2M0160120D-Transistor_FET Q 0 20 Y N 1 F N
+DEF C2M0160120D-Transistor_FET Q 0 20 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "KiCAD-Simulations-rescue_C2M0160120D-Transistor_FET" 200 0 50 H V L CNN
+F1 "C2M0160120D-Transistor_FET" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-247-3_Vertical" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
@@ -179,11 +179,11 @@ X S 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_C3D10060A-Diode
+# C3D10060A-Diode
 #
-DEF KiCAD-Simulations-rescue_C3D10060A-Diode D 0 40 N N 1 F N
+DEF C3D10060A-Diode D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_C3D10060A-Diode" 0 -100 50 H V C CNN
+F1 "C3D10060A-Diode" 0 -100 50 H V C CNN
 F2 "Package_TO_SOT_THT:TO-220-2_Vertical" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -198,11 +198,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_CP-Device
+# CP-Device
 #
-DEF KiCAD-Simulations-rescue_CP-Device C 0 10 N Y 1 F N
+DEF CP-Device C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "KiCAD-Simulations-rescue_CP-Device" 25 -100 50 H V L CNN
+F1 "CP-Device" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -218,11 +218,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_Conn_01x02_Female-Connector
+# Conn_01x02_Female-Connector
 #
-DEF KiCAD-Simulations-rescue_Conn_01x02_Female-Connector J 0 40 Y N 1 F N
+DEF Conn_01x02_Female-Connector J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_Conn_01x02_Female-Connector" 0 -200 50 H V C CNN
+F1 "Conn_01x02_Female-Connector" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -238,11 +238,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_DIODE-pspice
+# DIODE-pspice
 #
-DEF KiCAD-Simulations-rescue_DIODE-pspice D 0 40 Y N 1 F N
+DEF DIODE-pspice D 0 40 Y N 1 F N
 F0 "D" 0 150 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_DIODE-pspice" 0 -175 50 H V C CNN
+F1 "DIODE-pspice" 0 -175 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -253,11 +253,11 @@ X A 2 200 0 150 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_FA26C0G2J151JNU00-LLC_Cisns2
+# FA26C0G2J151JNU00-LLC_Cisns2
 #
-DEF KiCAD-Simulations-rescue_FA26C0G2J151JNU00-LLC_Cisns2 C 0 65 N N 1 L N
+DEF FA26C0G2J151JNU00-LLC_Cisns2 C 0 65 N N 1 L N
 F0 "C" 150 150 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_FA26C0G2J151JNU00-LLC_Cisns2" 150 -300 60 H V C CNN
+F1 "FA26C0G2J151JNU00-LLC_Cisns2" 150 -300 60 H V C CNN
 F2 "CAP_FA26_TDK" 150 -360 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -273,11 +273,11 @@ X 2 2 300 0 100 L 59 59 1 1 U
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_GBJ2510-F-PFC_Dac
+# GBJ2510-F-PFC_Dac
 #
-DEF KiCAD-Simulations-rescue_GBJ2510-F-PFC_Dac U 0 10 Y Y 1 L N
+DEF GBJ2510-F-PFC_Dac U 0 10 Y Y 1 L N
 F0 "U" 800 400 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_GBJ2510-F-PFC_Dac" 800 300 60 H V C CNN
+F1 "GBJ2510-F-PFC_Dac" 800 300 60 H V C CNN
 F2 "DIODE4_GBJ2510-F_DIO" 800 240 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -295,11 +295,11 @@ X 4 4 1600 0 300 L 59 59 1 1 U
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_GND-power
+# GND-power
 #
-DEF KiCAD-Simulations-rescue_GND-power #PWR 0 0 Y Y 1 F P
+DEF GND-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "KiCAD-Simulations-rescue_GND-power" 0 -150 50 H V C CNN
+F1 "GND-power" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -308,11 +308,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_GND1-power
+# GND1-power
 #
-DEF KiCAD-Simulations-rescue_GND1-power #PWR 0 0 Y Y 1 F P
+DEF GND1-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "KiCAD-Simulations-rescue_GND1-power" 0 -150 50 H V C CNN
+F1 "GND1-power" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -321,11 +321,11 @@ X GND1 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_IPP060N06N-Transistor_FET
+# IPP060N06N-Transistor_FET
 #
-DEF KiCAD-Simulations-rescue_IPP060N06N-Transistor_FET Q 0 20 Y N 1 F N
+DEF IPP060N06N-Transistor_FET Q 0 20 Y N 1 F N
 F0 "Q" 250 75 50 H V L CNN
-F1 "KiCAD-Simulations-rescue_IPP060N06N-Transistor_FET" 250 0 50 H V L CNN
+F1 "IPP060N06N-Transistor_FET" 250 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220-3_Vertical" 250 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
@@ -352,11 +352,11 @@ X S 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_L-Device
+# L-Device
 #
-DEF KiCAD-Simulations-rescue_L-Device L 0 40 N N 1 F N
+DEF L-Device L 0 40 N N 1 F N
 F0 "L" -50 0 50 V V C CNN
-F1 "KiCAD-Simulations-rescue_L-Device" 75 0 50 V V C CNN
+F1 "L-Device" 75 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -375,11 +375,11 @@ X 2 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_PA4344.473ANLT-LLC_Lr
+# PA4344.473ANLT-LLC_Lr
 #
-DEF KiCAD-Simulations-rescue_PA4344.473ANLT-LLC_Lr L 0 65 N N 1 L N
+DEF PA4344.473ANLT-LLC_Lr L 0 65 N N 1 L N
 F0 "L" 275 200 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_PA4344.473ANLT-LLC_Lr" 275 -225 60 H V C CNN
+F1 "PA4344.473ANLT-LLC_Lr" 275 -225 60 H V C CNN
 F2 "IND_PA4344.473ANLT_PUL" 275 -285 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -402,11 +402,11 @@ X 2 2 0 0 100 R 59 59 1 1 U
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_PS2501L-1-F3-A-LLC_O1
+# PS2501L-1-F3-A-LLC_O1
 #
-DEF KiCAD-Simulations-rescue_PS2501L-1-F3-A-LLC_O1 U 0 10 Y Y 1 L N
+DEF PS2501L-1-F3-A-LLC_O1 U 0 10 Y Y 1 L N
 F0 "U" 1100 400 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_PS2501L-1-F3-A-LLC_O1" 1100 300 60 H V C CNN
+F1 "PS2501L-1-F3-A-LLC_O1" 1100 300 60 H V C CNN
 F2 "SOIC_1L-1-A" 1100 240 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -426,11 +426,11 @@ X COLLECTOR 4 2200 0 300 L 59 59 1 1 U
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_R-Device
+# R-Device
 #
-DEF KiCAD-Simulations-rescue_R-Device R 0 0 N Y 1 F N
+DEF R-Device R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "KiCAD-Simulations-rescue_R-Device" 0 0 50 V V C CNN
+F1 "R-Device" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -443,11 +443,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_TLV431AIDBVT-LLC_VR
+# TLV431AIDBVT-LLC_VR
 #
-DEF KiCAD-Simulations-rescue_TLV431AIDBVT-LLC_VR U 0 10 Y Y 1 L N
+DEF TLV431AIDBVT-LLC_VR U 0 10 Y Y 1 L N
 F0 "U" 1200 400 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_TLV431AIDBVT-LLC_VR" 1200 300 60 H V C CNN
+F1 "TLV431AIDBVT-LLC_VR" 1200 300 60 H V C CNN
 F2 "DBV5" 1200 240 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -468,11 +468,11 @@ X ANODE 5 2400 0 300 L 59 59 1 1 U
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_TRANSF6-Transformer
+# TRANSF6-Transformer
 #
-DEF KiCAD-Simulations-rescue_TRANSF6-Transformer TR 0 0 N Y 1 F N
+DEF TRANSF6-Transformer TR 0 0 N Y 1 F N
 F0 "TR" 0 400 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_TRANSF6-Transformer" 0 -300 50 H V C CNN
+F1 "TRANSF6-Transformer" 0 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -512,11 +512,11 @@ X ~ 8 200 300 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_TestPoint-Connector
+# TestPoint-Connector
 #
-DEF KiCAD-Simulations-rescue_TestPoint-Connector TP 0 30 N N 1 F N
+DEF TestPoint-Connector TP 0 30 N N 1 F N
 F0 "TP" 0 270 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_TestPoint-Connector" 0 200 50 H V C CNN
+F1 "TestPoint-Connector" 0 200 50 H V C CNN
 F2 "" 200 0 50 H I C CNN
 F3 "" 200 0 50 H I C CNN
 $FPLIST
@@ -529,11 +529,11 @@ X 1 1 0 0 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_UCC24624DT-LLC_U2
+# UCC24624DT-LLC_U2
 #
-DEF KiCAD-Simulations-rescue_UCC24624DT-LLC_U2 U 0 10 Y Y 1 L N
+DEF UCC24624DT-LLC_U2 U 0 10 Y Y 1 L N
 F0 "U" 800 400 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_UCC24624DT-LLC_U2" 800 300 60 H V C CNN
+F1 "UCC24624DT-LLC_U2" 800 300 60 H V C CNN
 F2 "SOIC_4624DT_TEX" 800 240 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -557,11 +557,11 @@ X VG2 8 1600 0 300 L 59 59 1 1 B
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_UCC256403DDBR-LLC_U1
+# UCC256403DDBR-LLC_U1
 #
-DEF KiCAD-Simulations-rescue_UCC256403DDBR-LLC_U1 U 0 10 Y Y 1 L N
+DEF UCC256403DDBR-LLC_U1 U 0 10 Y Y 1 L N
 F0 "U" 800 400 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_UCC256403DDBR-LLC_U1" 800 300 60 H V C CNN
+F1 "UCC256403DDBR-LLC_U1" 800 300 60 H V C CNN
 F2 "SOIC14_DDB_TEX" 800 240 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -591,11 +591,11 @@ X LL/SS 9 1600 -600 300 L 59 59 1 1 I
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_UCC28180DR-PFC_IC
+# UCC28180DR-PFC_IC
 #
-DEF KiCAD-Simulations-rescue_UCC28180DR-PFC_IC U 0 10 Y Y 1 L N
+DEF UCC28180DR-PFC_IC U 0 10 Y Y 1 L N
 F0 "U" 1000 400 60 H V C CNN
-F1 "KiCAD-Simulations-rescue_UCC28180DR-PFC_IC" 1000 300 60 H V C CNN
+F1 "UCC28180DR-PFC_IC" 1000 300 60 H V C CNN
 F2 "D8_TEX" 1000 240 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -619,11 +619,11 @@ X GATE 8 2000 0 300 L 59 59 1 1 O
 ENDDRAW
 ENDDEF
 #
-# KiCAD-Simulations-rescue_UF5406-Diode
+# UF5406-Diode
 #
-DEF KiCAD-Simulations-rescue_UF5406-Diode D 0 40 N N 1 F N
+DEF UF5406-Diode D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "KiCAD-Simulations-rescue_UF5406-Diode" 0 -100 50 H V C CNN
+F1 "UF5406-Diode" 0 -100 50 H V C CNN
 F2 "Diode_THT:D_DO-201AD_P15.24mm_Horizontal" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
