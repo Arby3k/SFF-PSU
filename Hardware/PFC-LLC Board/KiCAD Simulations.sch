@@ -449,7 +449,7 @@ U 1 1 6024D5A4
 P 750 4100
 F 0 "J2" H 642 3775 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 642 3866 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 750 4100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 750 4100 50  0001 C CNN
 F 3 "~" H 750 4100 50  0001 C CNN
 	1    750  4100
 	-1   0    0    1   
