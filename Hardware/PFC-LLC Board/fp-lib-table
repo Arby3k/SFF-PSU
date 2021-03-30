@@ -15,4 +15,5 @@
   (lib (name LLC_Cvcc2)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/UUD1V150MCL1GS/footprints.pretty")(options "")(descr ""))
   (lib (name LLC_Dsec)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/STPS30M60DJF-TR/footprints.pretty")(options "")(descr ""))
   (lib (name LLC_pfc)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/450HXW100MEFR16X30/footprints.pretty")(options "")(descr ""))
+  (lib (name LLC_Transformer)(type KiCad)(uri "C:/Users/Grewal/Documents/BCIT/Term 8/Capstone Design Project Completion/SFF-PSU/Libraries/LLC_Transformer.pretty")(options "")(descr ""))
 )
