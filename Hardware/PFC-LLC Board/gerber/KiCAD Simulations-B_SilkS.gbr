@@ -1,24 +1,15 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.8)-1*%
-%TF.CreationDate,2021-03-15T15:17:27-07:00*%
+%TF.CreationDate,2021-03-29T18:42:40-07:00*%
 %TF.ProjectId,KiCAD Simulations,4b694341-4420-4536-996d-756c6174696f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.8)-1) date 2021-03-15 15:17:27*
+G04 Created by KiCad (PCBNEW (5.1.8)-1) date 2021-03-29 18:42:40*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%ADD10C,0.152400*%
 G04 APERTURE END LIST*
-D10*
-%TO.C,Uac1*%
-X95289964Y-73533000D02*
-G75*
-G03*
-X95289964Y-73533000I-381000J0D01*
-G01*
-%TD*%
 M02*
